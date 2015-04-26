@@ -1,0 +1,24 @@
+{
+  "name": "node-pi-vers",
+  "version": "1.0.0",
+  "description": "Just a script to look for NodeJS ARM packages",
+  "main": "prog.js",
+  "dependencies": {
+    "q": "^1.2.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sjasperse/nodejs-arm-package-finder.git"
+  },
+  "author": "sjasperse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjasperse/nodejs-arm-package-finder/issues"
+  },
+  "homepage": "https://github.com/sjasperse/nodejs-arm-package-finder"
+}
