@@ -1,5 +1,5 @@
 {
-  "name": "node-pi-vers",
+  "name": "nodejs-arm-package-finder",
   "version": "1.0.0",
   "description": "Just a script to look for NodeJS ARM packages",
   "main": "prog.js",
